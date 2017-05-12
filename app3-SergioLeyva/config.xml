@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.app3SergioLeyva"
+version = "1.0.0">
+
+<name>JQuery Mobile - Sergio Leyva</name>
+
+<description>
+Aplicación creada con JQuery Mobile y PhoneGap, mediante Dreamweaver CS6 by Sergio Leyva Mayo de 2017
+</description>
+
+<author href="https://sergioleyva8@hotmail.com" email="sergioleyva8@hotmail.com">
+Sergio Leyva
+</author>
+
+<icon src="images/phonegap1.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/phonegap1.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/phonegap1.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/phonegap1.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
